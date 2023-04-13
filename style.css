@@ -1,4 +1,25 @@
+body {
+    background: #cccccc        
+}
+
+#banner {
+    
+}
+
+h1 {
+
+    text-align: center;
+}
+
+#missao {
+
+    font-size: 20px;text-align: center;
+}
 
 p {
-    text-align: center;
+    text-align: center;             
+}
+
+em strong {
+    color: #d30707c8;
 }
